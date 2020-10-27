@@ -9,7 +9,7 @@ I am a senior majoring in Computer Science and I love creating things that live 
 * 💻 HTML, CSS, JavaScript
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljung&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljung&count_private=true&hide=total,stars&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljung&layout=compact&theme=radical" />
