@@ -9,12 +9,14 @@ I am a senior majoring in Computer Science and I love creating things that live 
 * 💻 HTML, CSS, JavaScript
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljung&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljung&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljung&layout=compact&theme=radical" />
 </a>
+
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'  width='50'>](https://github.com/RahulJung)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='25' width='50'>](https://dev.to/RahulJung)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' width='50'>](https://www.linkedin.com/in/rahul-jung-chauhan/)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25' width='50'>](https://twitter.com/rahuljung_)  
