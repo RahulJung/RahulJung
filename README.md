@@ -1,6 +1,6 @@
 # Hi, I'm Rahul 👋👨🏼‍💻
 
-I am a senior majoring in Computer Science and I love creating things that live on the internet, whether that be websites, full-stack web applications, or anything in between. 
+I am an Undergraduate Senior majoring in Computer Science and I love creating things that live on the internet, whether that be websites, full-stack web applications, or anything in between. 
 
 ## Here are a few technologies that I enjoy working with:
 
