@@ -1,10 +1,13 @@
-## Hi, I'm Rahul 👋👨🏼‍💻
+# Hi, I'm Rahul 👋👨🏼‍💻
+
 I am a senior majoring in Computer Science and I love creating things that live on the internet, whether that be websites, full-stack web applications, or anything in between. 
 
-Here are a few technologies that I enjoy working with:
+## Here are a few technologies that I enjoy working with:
 
+* ⚛ React
+* <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+* 💻 HTML, CSS, JS
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
