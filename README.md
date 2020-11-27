@@ -5,7 +5,7 @@ I am an Undergraduate Senior majoring in Computer Science and I love creating th
 ## Here are a few technologies that I enjoy working with
 
 * <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>React.js
-* <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node.js
+* <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node.js, Express.js
 * 💻 HTML, CSS, JavaScript, MySQL, MongoDB, PostgreSQL
 
 <a href="">
