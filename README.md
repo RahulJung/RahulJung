@@ -9,10 +9,10 @@ I am a recent graduate from the University of Housotn with a major in Computer S
 * 💻 HTML, CSS, JavaScript, MySQL, MongoDB, PostgreSQL
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljung&count_private=true&hide=total,stars&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulJung&count_private=true&hide=total,stars&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljung&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulJung&layout=compact&theme=radical" />
 </a>
 
 
