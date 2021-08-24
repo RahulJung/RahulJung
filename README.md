@@ -1,6 +1,6 @@
 # Hi, I'm Rahul 👋👨🏼‍💻
 
-I am a recent graduate from the University of Housotn with a major in Computer Science and I love creating things that live on the internet, whether that is websites, full-stack web applications, or anything in between. 
+I am a recent graduate from the University of Houston with a major in Computer Science and I love creating things that live on the internet, whether that is websites, full-stack web applications, or anything in between. 
 
 ## Here are a few technologies that I enjoy working with
 
