@@ -9,8 +9,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-jun
 </a>
 
 
-
-##
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'  width='50'>](https://github.com/RahulJung)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='25' width='50'>](https://dev.to/RahulJung)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25' width='50'>](https://www.linkedin.com/in/rahul-jung-chauhan/)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25' width='50'>](https://twitter.com/rahuljung_)  
-
