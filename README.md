@@ -1,16 +1,9 @@
-# Hi, I'm Rahul 👋👨🏼‍💻
+# Hey, I’m Rahul! 👋
 
-I am a recent graduate from the University of Houston with a major in Computer Science and I love creating things that live on the internet, whether that is websites, full-stack web applications, or anything in between. 
+I’m a software engineer who’s all about building things that just work — clean, simple, and scalable. Lately, I’ve been diving into generative AI and loving how it’s changing the game. I enjoy mixing solid code with new AI tricks to create stuff that actually makes an impact. Always curious, always coding, and excited about what’s next. Let’s build something awesome!
 
-## Here are a few technologies that I enjoy working with
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-jung-chauhan/) — always happy to chat about software, AI, or tech in general!
 
-* <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>React.js
-* <code><img height="16" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node.js, Express.js
-* 💻 HTML, CSS, JavaScript, MySQL, MongoDB, PostgreSQL
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulJung&count_private=true&hide=total,stars&show_icons=true&include_all_commits=true&theme=radical" alt="Rahul's github stats" />
-</a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulJung&layout=compact&theme=radical" />
 </a>
